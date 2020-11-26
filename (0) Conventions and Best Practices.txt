@@ -45,6 +45,4 @@
 8) Python does not have method overloading like C++ and Java.
 
 9) class ClassName():  is same as class ClassName:
-
-10) 
  
